@@ -6,3 +6,4 @@ typedef struct WPNT {int pid; int speed; int altitude; int heading; int latitude
 In the demonstration, the structure contains an example of a route near the Los Angeles airport. (Figure below)
 To change the route, you need to change the structure and recompile the project. If GPS is off, these fields can be filled manually. Activation of the value in the field occurs when the mouse is double-clicked.
 https://www.rcgroups.com/forums/showthread.php?3081951-Autopilot-on-AT91SAM7-Simulation-of-autopilot
+Исходный блог на русском языке: https://maksimuzz.blogspot.com/2018/01/at91sam7-4.html
